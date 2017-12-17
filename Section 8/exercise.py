@@ -3,3 +3,6 @@ test = r'Hello'
 
 print(test)
 
+splitter = 'Enes'
+
+print(splitter.split())
